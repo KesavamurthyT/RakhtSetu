@@ -61,7 +61,7 @@ RakhtSetu is an AI-powered platform designed to support Thalassemia patients by 
 3. Start the development server
    ```bash
    npm run dev
-##💡 Future Improvements:
+### Future Improvements:
 
 =>Full-scale donor AI prediction engine
 
@@ -73,11 +73,11 @@ RakhtSetu is an AI-powered platform designed to support Thalassemia patients by 
 
 =>Mobile blood camp logistics system
 
-##🤝 Contributing
+## Contributing
 
 We're open to collaboration from developers, healthcare professionals, and NGOs. If you're interested in contributing, please open an issue or submit a pull request.
 
-##📄 License
+## License
 This project is licensed under the **MIT License**.
 
 
