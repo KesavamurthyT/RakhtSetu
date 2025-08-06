@@ -1,4 +1,4 @@
-# 🩸 RakhtSetu
+# RakhtSetu
 
 RakhtSetu is an AI-powered platform designed to support Thalassemia patients by simplifying access to compatible blood donors and enabling end-to-end health management. Built to be accessible, secure, and impactful, the platform connects patients, donors, hospitals, and NGOs in one unified ecosystem.
 
@@ -56,6 +56,8 @@ RakhtSetu is an AI-powered platform designed to support Thalassemia patients by 
    git clone https://github.com/your-username/rakhtsetu.git
    cd rakhtsetu
 2. Install Dependencies
+   ```bash
    npm install
 3. Start the development server
+   ```bash
    npm run dev
